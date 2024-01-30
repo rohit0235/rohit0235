@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full stack**
 
-- 💬 Ask me about **HTML,CSS,PYTHON,C++**
+- 💬 Ask me about **HTML,CSS,Python,C++**
 
 - 📫 How to reach me **rohitkumarsahu2022@vitbhopal.ac.in**
 
