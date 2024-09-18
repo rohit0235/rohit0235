@@ -1,4 +1,5 @@
 ![logo](https://github.com/rohit0235/rohit0235/blob/main/linkdin%20banner.jpeg)
+<p align="center"><img width="full" src="https://github.com/rohit0235/rohit0235/blob/main/304222231-d837b19f-0f7a-48a4-9ea0-652d71ce0c11.gif"/></p>
 <h3 align="center">A passionate frontend developer from India</h3>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit0235" alt="rohit0235" /></a> </p> -->
 <img align="right" width="400" alt="image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
