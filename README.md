@@ -8,9 +8,10 @@
 
 </p>
 <p align="center"><img width="full" src="https://github.com/rohit0235/rohit0235/blob/main/304222231-d837b19f-0f7a-48a4-9ea0-652d71ce0c11.gif"/></p>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit0235" alt="rohit0235" /></a> </p> -->
-<img align="right" width="400" alt="image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit0235&label=Profile%20views&color=0e75b6&style=flat" alt="rohit0235" /> </p>
 
@@ -76,10 +77,5 @@
 </p>
 
 
-<p align="center">
-<a href="https://wakatime.com/@Voko"><img src="https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social" alt="wakatime"></a>
-<a href="https://github.com/rohit0235?tab=following"><img src="https://img.shields.io/github/stars/rohit0235?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/rohit0235?tab=followers"><img src="https://img.shields.io/github/followers/rohit0235?&logoColor=red&style=social" alt="GitHub followers"></a>
-</p>
 
 
