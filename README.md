@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Full stack**
 
-- 💬 Ask me about **HTML,CSS,Python,C++**
+- 💬 Ask me about **HTML,CSS,Python,C++,JAVASCRIPT,Node.Js,ReactJs,Unity**
 
 - 📫 How to reach me **rohitkumarsahu2022@vitbhopal.ac.in**
 
