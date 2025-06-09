@@ -57,16 +57,10 @@
     <a href="https://wakatime.com/@Voko#gh-light-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit0235&theme=github-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a> -->
-</p>
+
 <!-- activity graph heroku-app end -->
-
-
-<p align="center">
-<a href="https://wakatime.com/@Voko#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
-<a href="https://wakatime.com/@Voko#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Voko&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Voko's wakatime stats"/></a>
 <!-- <a href="https://github.com/rohit0235?tab=achievements#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=rohit0235&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a> -->
 <!-- <a href="https://github.com/rohit0235?tab=achievements#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=rohit0235&theme=flat&no-frame=true&column=3&row=2"  width="38%" alt="@Voko's trophy stats"/></a> -->
-</p>
 
 
 <p align="center">
@@ -75,6 +69,29 @@
 <a href="https://github.com/issues?q=is%3Aissue+author%3Arohit0235+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit0235&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3Arohit0235+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rohit0235&theme=github&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 </p>
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1183 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+🌆 Daytime                2774 commits        ██████████░░░░░░░░░░░░░░░   39.05 % 
+🌃 Evening                2056 commits        ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+🌙 Night                  1090 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   812 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Tuesday                  1029 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Wednesday                1071 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Thursday                 863 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Friday                   712 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Saturday                 969 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Sunday                   1647 commits        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+```
+
+
+
 
 
 
