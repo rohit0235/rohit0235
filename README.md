@@ -2,13 +2,14 @@
 
 -----
 
+
+<p align="center"><img width="full" src="https://github.com/rohit0235/rohit0235/blob/main/304222231-d837b19f-0f7a-48a4-9ea0-652d71ce0c11.gif"/></p>
+<h3 align="center">A passionate  developer from India</h3>
 <p align="center">
  
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 </p>
-<p align="center"><img width="full" src="https://github.com/rohit0235/rohit0235/blob/main/304222231-d837b19f-0f7a-48a4-9ea0-652d71ce0c11.gif"/></p>
-<h3 align="center">A passionate  developer from India</h3>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit0235" alt="rohit0235" /></a> </p> -->
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
